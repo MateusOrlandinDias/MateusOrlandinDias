@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ Age: 19y
 - 🔭 I’m currently working on Meta IT acting as an RPA intern.
-- 👨‍💻 I’m currently learning React, C# and Node JS.
+- 👨‍💻 I’m currently learning React and Node JS.
 - 💬 Ask me about RPA, JavaScript, HTML and CSS.
 
 <div align="center">
