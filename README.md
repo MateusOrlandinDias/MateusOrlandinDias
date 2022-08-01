@@ -1,7 +1,7 @@
 ### Hi! Im Orlandin, and welcome to my profile. 😃
 
 - 🙋‍♂️ Age: 19y
-- 🔭 I’m currently working on Meta IT acting as an RPA intern.
+- 🔭 I’m currently working on Meta IT acting as a RPA intern.
 - 👨‍💻 I’m currently learning React and Node JS.
 - 💬 Ask me about RPA, JavaScript, HTML and CSS.
 
