@@ -1,4 +1,4 @@
-### Hi! Im Orlandin, and welcome to my profile. 😃
+### Hi! Im Orlandin, welcome to my profile. 😃
 
 - 🙋‍♂️ Age: 19y
 - 🔭 I’m currently working on Meta IT acting as a RPA intern.
