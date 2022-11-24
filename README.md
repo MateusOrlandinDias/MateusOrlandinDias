@@ -2,8 +2,8 @@
 
 - 🙋‍♂️ Age: 20y
 - 🔭 I’m currently working on Meta IT acting as a RPA Júnior Developer.
-- 👨‍💻 I’m currently learning React and Node JS.
-- 💬 Ask me about RPA, JavaScript, HTML and CSS.
+- 👨‍💻 I’m currently learning C#.
+- 💬 Ask me about RPA and JavaScript for front-end.
 
 <div align="center">
   <a href="https://github.com/MateusOrlandinDias">
