@@ -1,9 +1,9 @@
 ### Hi! Im Orlandin, welcome to my profile. 😃
 
 - 🙋‍♂️ Age: 20y
-- 🔭 I’m currently working on Meta IT acting as a RPA Júnior Developer.
-- 👨‍💻 I’m currently learning C#.
-- 💬 Ask me about RPA and JavaScript for front-end.
+- 🔭 I’m currently working on Meta IT acting as a RPA Developer.
+- 👨‍💻 I’m currently learning and developing projects in C# (ASP.NET Core/ Entity Framework Core) and React.
+- 💬 Ask me about RPA, C#, React and JavaScript.
 
 <div align="center">
   <a href="https://github.com/MateusOrlandinDias">
