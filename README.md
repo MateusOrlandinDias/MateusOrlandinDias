@@ -1,9 +1,10 @@
 ### Hi! Im Orlandin, welcome to my profile. 😃
 
-- 🙋‍♂️ Age: 21y
+- 🙋‍♂️ Age: 22y
 - 🔭 I’m currently working on Meta IT acting as a RPA Developer.
-- 👨‍💻 I’m currently learning and developing projects in C# (ASP.NET Core/ Entity Framework Core) and React.
+- 👨‍💻 I’m currently building Micro SaaS Projects to RPA niche.
 - 💬 Ask me about RPA, C#, React and JavaScript.
+- 📽️ Youtube Channel: https://www.youtube.com/@Automatask
 
 <div align="center">
   <a href="https://github.com/MateusOrlandinDias">
