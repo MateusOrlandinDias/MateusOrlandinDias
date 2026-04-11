@@ -1,8 +1,7 @@
 ### Hi! Im Orlandin, welcome to my profile. 😃
 
-- 🙋‍♂️ Age: 22y
-- 🔭 I’m currently working on Meta IT acting as a RPA Developer.
-- 👨‍💻 I’m currently building Micro SaaS Projects to RPA niche.
+- 🔭 I’m currently working at UiPath acting as a Technical Account Manager.
+- 👨‍💻 I’m currently building Micro SaaS Projects.
 - 💬 Ask me about RPA, C#, React and JavaScript.
 - 📽️ Youtube Channel: https://www.youtube.com/@Automatask
 
